@@ -1,3 +1,5 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+Jogo criado com a ferramenta **Struckd - Criador de Jogos 3D**, na aula do dia 04/12/2024.
+Realizei algumas mudanças no cenário e objetivo do jogo. Coloquei meu nome, alguns soldados e objetos no cenário.
+
