@@ -5,4 +5,5 @@ Realizei algumas mudanças no cenário e objetivo do jogo. Coloquei meu nome, al
 
 **Links Relacionados**
 
-- [Link para acessar o jogo](https://zap.struckd.com/games/aula-de-modelagem) Ao clicar no link, você será redirecionado à página do meu jogo.
+- [Link para acessar o jogo](https://zap.struckd.com/games/aula-de-modelagem)
+- Ao clicar no link, você será redirecionado à página do meu jogo.
