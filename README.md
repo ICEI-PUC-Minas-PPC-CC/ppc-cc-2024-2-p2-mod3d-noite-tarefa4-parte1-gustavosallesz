@@ -21,10 +21,7 @@
 <li><a href="src/img/User_EL7SETE.jpg"> Meu Avatar Dentro do Struckd - "EL7SETE"
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> Acesse o link para ter acesso ao meu projeto no Struckd</a></li>
