@@ -1,11 +1,11 @@
 # Instruções de utilização
 
-## Instalação do Site
+O objetivo do jogo é combater os soldados adversários, além de também ser necessário derrubar a torre contida atrás dos oponentes.
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+## Instalação do Projeto
 
-## Histórico de versões
+O projeto é um jogo criado via celular, dentro do Struckd.
 
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+## Alterações
+
+Coloquei alguns itens no cenário, como meu nome. Também adicionei alguns carros militares, construções que remetem à bases e algumas construções orientais, pois meu objetivo era deixar um ambiente com a cara do inverso japonês.
