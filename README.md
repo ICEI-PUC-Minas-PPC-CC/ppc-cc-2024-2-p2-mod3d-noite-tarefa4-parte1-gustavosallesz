@@ -15,7 +15,6 @@
 # Documentação
 
 <ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="src/README.md"> Instruções do Projeto
 <li><a href="src/img/Jogo_Postado.jpg"> Comprovação de Postagem do Projeto
 <li><a href="src/img/Lobby.jpg"> Cenário do Jogo
